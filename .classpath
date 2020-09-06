@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/swingx-autocomplete-1.6.5-1.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/swingx-common-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/poi-4.1.1/poi-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/poi-4.1.1/poi-examples-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/poi-4.1.1/poi-excelant-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/poi-4.1.1/poi-ooxml-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/poi-4.1.1/poi-ooxml-schemas-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/poi-4.1.1/poi-scratchpad-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/commons-collections4-4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/commons-compress-1.19-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/commons-compress-1.19-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/commons-compress-1.19-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/commons-compress-1.19-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/poi-4.1.1/ooxml-lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="D:/Invhack 2020/poi-4.1.1/ooxml-lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
